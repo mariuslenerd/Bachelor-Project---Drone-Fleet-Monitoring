@@ -15,3 +15,5 @@ This project simulates a simplified city grid where zones of congestion cyclical
   * Reinforcment learning : Moving beyond simple rule-based algorithms to adaptive strategies tahat learn from patterns and improve over time.
 
  Our ultimate goal is to explore how drones could support real-time, adaptive traffic monitoring in complex urban environments. 
+
+ The whole code is available in this repository. The official report, who granted us the maximal grade 6.0/6.0, is also available.
